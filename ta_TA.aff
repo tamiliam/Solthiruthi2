@@ -1,0 +1,23 @@
+﻿# An .aff file created for corpus based dictionary - By Ve. Elanjelian, Thamizha
+
+SET UTF-8
+TRY ்ுதமனகறடபரநலிஎாளஒவஇஙணேசவயேோஅூழொீஙஞஉஆஸஷஜஏஊஓஈஹௌஐஃஔ
+
+REP 4
+REP	ன்ர ன்ற
+REP ன்ட ண்ட
+REP ன்ட் ண்ட்
+REP ன்டு ண்டு
+
+FLAG num
+SFX 1 Y 1
+SFX 1     ம்     த்தை     ம்
+
+SFX 2 Y 2
+SFX 2     ம்     த்தில்     ம்
+SFX 2     0     யில்     றை
+
+SFX 3 Y 3
+SFX 3     0     க்கு     றை
+SFX 3     ம்     த்திற்கு     ம்
+SFX 3     0     க்கு     ி
